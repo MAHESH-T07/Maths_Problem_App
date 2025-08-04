@@ -1,0 +1,15 @@
+ipykernel
+python-dotenv
+langchain-groq
+langchain
+langchain-community
+pypdf
+validators==0.28.1
+youtube-transcript-api
+streamlit
+unstructured
+pytube
+wikipedia
+numexpr
+langchain_huggingface
+huggingface_hub
